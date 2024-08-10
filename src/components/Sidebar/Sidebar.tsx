@@ -15,9 +15,9 @@ const widgetsData = [
 	},
 
 	{ title: 'Телепрограмма', items: [
-		{text: '02:00 ТНТ.Best', text2: 'THT International'},
-		{text: '02:15 Джинглики', text2: 'Карусель INT'},
-		{text: '02:25 Наедине со всеми', text2: 'Первый'}
+		{text: '02:00 ТНТ.Best'},
+		{text: '02:15 Джинглики'},
+		{text: '02:25 Наедине со всеми'}
 		]
 	},
 ];
